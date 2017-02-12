@@ -1,6 +1,6 @@
 {
   "newVersion": "2.2",
-  "apkUrl": "https://github.com/simokb96/app-update/blob/master/Ofppt_app.apk",
+  "apkUrl": "https://raw.githubusercontent.com/Shadowofleaf/app-update/master/Ofppt_app.apk",
   "versionNotes": [
     "-fix a NPE "
   ]
