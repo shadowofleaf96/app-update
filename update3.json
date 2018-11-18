@@ -1,8 +1,7 @@
 {
   "newVersion": "3.2",
   "apkUrl": "https://raw.githubusercontent.com/Shadowofleaf/app-update/master/YouTubeMP3-V3.2.apk",
-  "versionNotes": [
-    "-V3.2 Stable : -New Improvements
-                    -Fix Quit App 
+ "versionNotes": [
+    "- New Improvements, fix Quit App"
      ]
 }
