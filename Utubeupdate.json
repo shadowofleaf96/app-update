@@ -1,7 +1,9 @@
 {
-  "newVersion": "1.0",
-  "apkUrl": "https://raw.githubusercontent.com/Shadowofleaf/app-update/master/Utube_1.0.apk",
+  "newVersion": "1.1",
+  "apkUrl": "https://raw.githubusercontent.com/Shadowofleaf/app-update/master/Utube_1.1.apk",
  "versionNotes": [
-    "- new app"
+    "- Fix page not loaded in android pie 
+     - add clear history when long click on history 
+     - fix toolbar icon "
      ]
 }
