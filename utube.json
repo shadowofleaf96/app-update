@@ -1,17 +1,7 @@
 {
   "newVersion": "2.0",
   "apkUrl": "https://raw.githubusercontent.com/Shadowofleaf/app-update/master/uTube_2.0.apk",
- "versionNotes": [
-    "- add Floiting mode (or background mode)
-     - floating is enabled, you can listen to music even you lock your phone
-     - fix download error (update signature encryption) 
-     - add home button to downloads activity 
-     - disable reload youtube when connection is restored for now 
-     - add notification to close floiting mode
-     - finish connection receiver when app is closed 
-     - change settings button to more button
-     - change share youtube video to floating video (you can find share video in more button
-     - update to androidx
-     - and more fixes
-     ]
+  "versionNotes": [
+    "-Nouveau Version en direct"
+  ]
 }
