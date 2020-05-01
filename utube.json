@@ -1,7 +1,14 @@
 {
-  "newVersion": "2.0",
-  "apkUrl": "https://raw.githubusercontent.com/Shadowofleaf/app-update/master/uTube_2.0.apk",
+  "newVersion": "2.1",
+  "apkUrl": "https://raw.githubusercontent.com/Shadowofleaf/app-update/master/UTube_2.1.apk",
   "versionNotes": [
-    "-Nouveau Version en direct"
+    "- Add BottomMenu with UTube and Downloads
+     - Add Custom No network Page in case of no internet
+     - Fix reload on no network page
+     - fix utube reload when return 
+     - Improved Downloads UI 
+     - No Ads at all
+     - Fix Downloads errors
+     - Other Improvements and fixes
   ]
 }
